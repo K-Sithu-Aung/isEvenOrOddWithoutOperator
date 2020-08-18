@@ -5,7 +5,7 @@ function isEvenOrOdd(x) {
 
 let a = isEvenOrOdd(10)
 
-console.log(a);
+console.log("Lee Bal",a);
 
 
 
